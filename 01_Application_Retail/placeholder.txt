@@ -1,1 +1,10 @@
+# Modul Retail  🏪
 
+Folder ini berisi aplikasi manajemen retail berbasis Microsoft Access.
+
+### Fitur yang Tersedia:
+* **Manajemen Barang:** Input nama barang, harga, dan kategori.
+* **Kasir/Penjualan:** Form transaksi untuk melayani pembeli.
+* **Stok:** Update stok otomatis setelah transaksi selesai.
+
+> **Status:** Sedang dalam pengembangan (In Development).
