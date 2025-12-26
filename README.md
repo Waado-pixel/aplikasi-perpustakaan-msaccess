@@ -1,4 +1,4 @@
-# Aplikasi Perpustakaan Desktop (MS Access)
+# Aplikasi Perpustakaan Desktop
 
 Aplikasi perpustakaan berbasis desktop menggunakan Microsoft Access.
 
